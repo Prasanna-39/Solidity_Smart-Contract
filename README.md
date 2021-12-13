@@ -22,7 +22,7 @@ and complex user-defined types among other features.+
 
 With Solidity you can create contracts for uses such as voting, crowdfunding, blind auctions, and multi-signature wallets.
 
-============================================================================================================================
+========================================================================================================================
 
 When deploying contracts, you should use the latest released version of Solidity.
 Apart from exceptional cases, only the latest version receives security fixes.
