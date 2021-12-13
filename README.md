@@ -10,6 +10,7 @@ It is influenced by C++, Python and JavaScript, and is designed to target the Et
 You can find more details about which languages Solidity has been inspired by in the language influences section.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Solidity is statically typed,                       +
 supports inheritance,                               +
 libraries                                           +
