@@ -28,7 +28,7 @@ Apart from exceptional cases, only the latest version receives security fixes.
 Furthermore, breaking changes as well as new features are introduced regularly. 
 We currently use a 0.y.z version number to indicate this fast pace of change
 
-[Solidity meterial ](https://solidity-by-example.org/)
+[Solidity ](https://solidity-by-example.org/)
 ____________________________________________________
 
 
