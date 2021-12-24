@@ -28,9 +28,10 @@ Apart from exceptional cases, only the latest version receives security fixes.
 Furthermore, breaking changes as well as new features are introduced regularly. 
 We currently use a 0.y.z version number to indicate this fast pace of change
 
-[Solidity ](https://solidity-by-example.org/)
+[Solidity Modulus](https://solidity-by-example.org/)
 ____________________________________________________
-
+[Solidity_vidoes](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)
+-------------------------------------------------------------------------------------------
 
 Hello World,/
 First App,/
