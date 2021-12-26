@@ -1,5 +1,7 @@
 Solidity
 
+ ![kisspng-solidity-ethereum-smart-contract-blockchain-neo-5b136ee50917a2 2399118015280002290373](https://user-images.githubusercontent.com/74823833/147402401-1696830d-8912-449b-af30-d11d18c02ec9.jpg)
+ 
 [Solidity_Smart-contract;](https://docs.soliditylang.org/en/v0.8.11/)
 -------------------------
 Solidity is an object-oriented, high-level language for implementing smart contracts. 
@@ -13,7 +15,7 @@ You can find more details about which languages Solidity has been inspired by in
 
 
 *Solidity is statically typed,                       
-*supports inheritance,                               
+*supports inheritance,                            
 *libraries                                           
 *and complex user-defined types among other features.
 
