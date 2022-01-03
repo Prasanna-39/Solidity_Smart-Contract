@@ -1,16 +1,19 @@
-Solidity
+# Solidity Smart Contract#
+------------
+ ## Solidity is a brand-new programming language created by the Ethereum which is the second-largest market of cryptocurrency by capitalization,released in the year 2015 led by Christian Reitwiessner. Some key features of solidity are listed below: ##
 
- ![kisspng-solidity-ethereum-smart-contract-blockchain-neo-5b136ee50917a2 2399118015280002290373](https://user-images.githubusercontent.com/74823833/147402401-1696830d-8912-449b-af30-d11d18c02ec9.jpg)
- 
- Solidity is a brand-new programming language created by the Ethereum which is the second-largest market of cryptocurrency by capitalization, released in the year 2015 led by Christian Reitwiessner. Some key features of solidity are listed below: 
-
-Solidity is a high-level programming language designed for implementing smart contracts.
-It is statically-typed object-oriented(contract-oriented) language.
-Solidity is highly influenced by Python, c++, and JavaScript which runs on the Ethereum Virtual Machine(EVM).
-Solidity supports complex user-defined programming, libraries and inheritance.
-Solidity is primary language for blockchains running platforms.
-Solidity can be used to creating contracts like voting, blind auctions, crowdfunding, multi-signature wallets, etc.
-
+➡️ Solidity is a high-level programming language designed for implementing smart contracts.
+---------
+➡️ It is statically-typed object-oriented(contract-oriented) language.
+-----------
+➡️ Solidity is highly influenced by Python, c++, and JavaScript which runs on the Ethereum Virtual Machine(EVM).
+--------
+➡️ Solidity supports complex user-defined programming, libraries and inheritance.
+------------
+➡️ Solidity is primary language for blockchains running platforms.
+-----------
+➡️ Solidity can be used to creating contracts like voting, blind auctions, crowdfunding, multi-signature wallets, etc.
+------------
 
 
  
