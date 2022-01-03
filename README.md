@@ -1,4 +1,4 @@
-# Solidity Smart Contract#
+# Solidity Smart Contract #
 ------------
  ## Solidity is a brand-new programming language created by the Ethereum which is the second-largest market of cryptocurrency by capitalization,released in the year 2015 led by Christian Reitwiessner. Some key features of solidity are listed below: ##
 
